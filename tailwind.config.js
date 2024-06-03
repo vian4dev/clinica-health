@@ -18,7 +18,7 @@ module.exports = {
 
       colors: {
         violet: {
-          25: '#FCFAFF',
+          25: '#f472b6',
         },
 
         error: {
