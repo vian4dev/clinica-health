@@ -25,11 +25,14 @@ export default function AdicionarPacientes() {
         <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Endereço</label>
         <input type="email" id="email" aria-describedby="helper-text-explanation" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="name@flowbite.com" />
 
-        <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">End</label>
+        <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Família</label>
+        <input type="email" id="email" aria-describedby="helper-text-explanation" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="name@flowbite.com" />
+
+        <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Convenio</label>
         <input type="email" id="email" aria-describedby="helper-text-explanation" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="name@flowbite.com" />
 
         <div className="flex items-center gap-2">
-            <button type="button" className="text-zinc-100">
+            <button type="button" className="text-zinc-100">z
               Cancel
             </button>
             <button type="submit" className="text-zinc-100">

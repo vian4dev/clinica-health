@@ -1,4 +1,4 @@
-import { BannerInfo } from "../../BannerInfo";
+import { BannerInfo } from "../BannerInfo";
 
 export default function AdicionarConsultas() {
   return (

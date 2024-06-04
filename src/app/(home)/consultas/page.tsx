@@ -11,7 +11,7 @@ export default function Consultas() {
       <BannerInfo
         title="Lista de Consultas"
         titleButton="Adicionar Consulta"
-        link="./consultas/adicionarConsultas"
+        link="./adicionarConsultas"
       />
       <TableConsultas />
     </div>
