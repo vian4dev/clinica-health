@@ -11,7 +11,7 @@ export default function Page() {
       <BannerInfo 
           title="Adicionar Medicos"
           titleButton="Adicionar Medicos"
-          link="./medicos/adicionarMedicamentos"
+          link="./medicos/adicionarMedicos"
         />
       <TableMedicos/>
     </div>

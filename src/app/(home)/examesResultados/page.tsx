@@ -1,5 +1,5 @@
-import { BannerInfo } from "../BannerInfo";
-import TableExamesResultados from "./TableExamesResultados";
+import { BannerInfo } from '../BannerInfo'
+import TableExamesResultados from './TableExamesResultados'
 
 // `app/page.tsx` is the UI for the `/` URL
 export default function ExamesResultados() {

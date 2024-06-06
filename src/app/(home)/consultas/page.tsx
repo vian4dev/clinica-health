@@ -1,6 +1,5 @@
-import { BannerInfo } from "../BannerInfo";
-import TableConsultas from "./TableConsultas";
-
+import { BannerInfo } from '../BannerInfo'
+import TableConsultas from './TableConsultas'
 
 export default function Consultas() {
   return (
@@ -15,7 +14,5 @@ export default function Consultas() {
       />
       <TableConsultas />
     </div>
-
-
   )
 }

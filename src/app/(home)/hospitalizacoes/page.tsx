@@ -1,4 +1,4 @@
-import { BannerInfo } from "../BannerInfo";
+import { BannerInfo } from '../BannerInfo'
 
 // `app/page.tsx` is the UI for the `/` URL
 export default function Hospitalizacoes() {
@@ -7,11 +7,11 @@ export default function Hospitalizacoes() {
       <h1 className="text-3xl font-medium text-zinc-900 dark:text-zinc-100">
         Gerenciar Hospitalizações
       </h1>
-      <BannerInfo 
+      <BannerInfo
         title="Adicionar Hospitalizações"
         titleButton="Adicionar Hospitalizações"
         link="./hospitalizacoes/adicionarHospitalizacoes"
       />
     </div>
   )
-  }
+}
